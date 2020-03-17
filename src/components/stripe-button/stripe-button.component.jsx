@@ -16,7 +16,7 @@ const StripeCheckoutButton = ({ price }) => {
             name='Afro Clothing Ltd.'
             billingAddress
             shippingAddress
-            image='https://svgshare.com/i/JAQ.svg'
+            image='https://svgshare.com/i/JE0.svg'
             description={`Your total is $${price}`}
             amount={priceForStripe}
             panelLabel='Pay Now'
