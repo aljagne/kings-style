@@ -2,7 +2,7 @@ const INITIAL_STATE = {
     sections: [
         {
           title: 'hats',
-          imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
+          imageUrl: 'https://i.ibb.co/87CTmdz/hats.jpg',
           id: 1,
           linkUrl: 'shop/hats'
         },
@@ -20,14 +20,14 @@ const INITIAL_STATE = {
         },
         {
           title: 'womens',
-          imageUrl: 'https://i.ibb.co/1XNGpP4/women2-min.png',
+          imageUrl: 'https://i.ibb.co/1GjCCSd/womens.jpg',
           size: 'large',
           id: 4,
           linkUrl: 'shop/womens'
         },
         {
           title: 'mens',
-          imageUrl: 'https://i.ibb.co/5BQCSYt/mens1-min.png',
+          imageUrl: 'https://i.ibb.co/Y3JQWK2/men.jpg',
           size: 'large',
           id: 5,
           linkUrl: 'shop/mens'
